@@ -8,5 +8,5 @@
 
 4. Criar uma nova Branch e Merge; [ X ]
 
-5. Realizar um Fork e Pull Request; [  ]
+5. Realizar um Fork e Pull Request; [ X ]
 
